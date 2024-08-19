@@ -5,9 +5,9 @@
 ##
 
 <div align="center">
-         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabsmelin&show_icons=true&theme=radical"/>
-         <a href="https://github.com/gabsmelin">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabsmelin&langs_count=10&count_private=true&theme=radical&layout=compact"/>
+         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabsMeloTI&show_icons=true&theme=radical"/>
+         <a href="https://github.com/GabsMeloTI">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabsMeloTI&langs_count=10&count_private=true&theme=radical&layout=compact"/>
 </div>
 
 ##
@@ -36,7 +36,7 @@
 
 
 <!--
-**gabsmelin/gabsmelin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**GabsMeloTI/GabsMeloTI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
