@@ -18,7 +18,7 @@
 
 - Back-End
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=javascript,nodejs,java,cs,python,mysql,heroku)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=javascript,nodejs,java,cs,python,heroku,go)](https://skillicons.dev)
 
 - Front-End
 
